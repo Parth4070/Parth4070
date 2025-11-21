@@ -1,4 +1,4 @@
-# Hi there, I'm [Parth]! 👋
+# Hi there, I'm Parth! 👋
 
 
 I'm a passionate student pursuing a **Bachelor's in Artificial Intelligence and Machine Learning** at **DJSCE**. My curiosity drives me to continuously learn and innovate in this dynamic field.
