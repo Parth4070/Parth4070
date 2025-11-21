@@ -16,13 +16,13 @@ I'm a passionate student pursuing a **Bachelor's in Artificial Intelligence and 
 
 ### 🛠️ Tech Stack & Tools
 
->Python
->Pandas
->Numpy
->Scikit
->Matplotlib
->Jupyter notebook
->Figma
+- > Python
+- > Pandas
+- > Numpy
+- > Scikit
+- > Matplotlib
+- > Jupyter notebook
+- > Figma
 >
 
 ---
