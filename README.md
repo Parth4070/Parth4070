@@ -32,7 +32,3 @@ I'm a passionate student pursuing a **Bachelor's in Artificial Intelligence and 
 ### Let's Connect
 
 I'm eager to connect with the AI/ML community to share ideas and insights. Let's explore the endless possibilities together!
-
-<p align="center">
-  <i>"Code, Ride, Explore." </i>
-</p>
