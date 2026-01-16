@@ -35,21 +35,23 @@ I am a passionate **Bachelor's in Artificial Intelligence and Machine Learning**
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parth4070&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4070&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth4070&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4070&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect!
 
-I'm always open to collaborating on innovative AI/ML projects or discussing the latest trends in tech.
-
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Parth" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Parth" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Parth4070&label=Profile%20views&color=0e75b6&style=flat" alt="Parth4070" /> 
+  <img src="https://komarev.com/ghpvc/?username=Parth4070&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
