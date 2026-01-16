@@ -32,15 +32,6 @@ I am a passionate **Bachelor's in Artificial Intelligence and Machine Learning**
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth4070&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4070&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="left">
