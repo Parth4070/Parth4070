@@ -42,7 +42,3 @@ I am a passionate **Bachelor's in Artificial Intelligence and Machine Learning**
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Parth4070&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
